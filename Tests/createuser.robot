@@ -13,7 +13,7 @@ Admin is able to add user
     User is succefully loggedIn
     Click on Admin Side Menu
     Verify user is on user mangement page
-    #Add new ESS user
+    Add new ESS user
     #Verify user is created
 
 

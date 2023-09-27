@@ -14,7 +14,15 @@ Verify user is on user mangement page
     #Verify the URL
 
 Add new ESS user
-    create new ESS User
+    click on Add button
+    select ESS user role
+    select enabled status
+    Enter employee name
+    Enter user name
+    Enter password
+    comfirm password
+    click save button
+
 
 #Verify user is created
     #ESS user is sucessfully created
